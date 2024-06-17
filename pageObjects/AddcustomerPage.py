@@ -14,7 +14,7 @@ class AddCustomer:
     rdmFemaleGender_xpath = "//input[@id='Gender_Female']"
     txtDob_xpath = "//input[@id='DateOfBirth']"
     txtCompanyName_xpath = "//input[@id='Company']"
-    txtCustomerRoles_xpath = "//div[@class='input-group-append input-group-required']//div[@role='listbox']"
+    txtCustomerRoles_xpath = "//div[@class='input-group-append input-group-required']//ul[@class='select2-selection__rendered']"
     listItemAdministrator_xpath = "//li[contains(text(),'Administrators')]"
     listItemRegistered_xpath = "//li[contains(text(),'Registered')]"
     listItemVendor_xpath = "//li[contains(text(),'Vendors')]"

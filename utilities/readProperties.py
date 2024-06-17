@@ -1,7 +1,7 @@
 import configparser
 
 config = configparser.RawConfigParser()
-config.read("F:\\software testing material\\videos on software testing\\Python code with harry\\nopcommerce\\configurations\\config.ini")
+config.read("F:\\software testing material\\videos on software testing\\Python code with harry\\project\\nopcommerce\\configurations\\config.ini")
 
 
 class ReadConfig:

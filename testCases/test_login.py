@@ -6,6 +6,7 @@ from utilities.readProperties import ReadConfig
 from utilities.customLogger import logDemo
 # from utilities.testlogger import custlogger
 class Test_001_Login:
+
     # baseUrl = "https://admin-demo.nopcommerce.com/"
     # username = 'admin@yourstore.com'
     # password = "admin"
@@ -31,7 +32,7 @@ class Test_001_Login:
             self.driver.close()
             self.logger.info("**************** home page title test is passed *****************")
         else:
-            self.driver.save_screenshot("F:\\software testing material\\videos on software testing\\Python code with harry\\nopcommerce\\screenshots\\test_homePageTitle.png")
+            self.driver.save_screenshot("F:\\software testing material\\videos on software testing\\Python code with harry\\project\\nopcommerce\\screenshots\\test_homePageTitle.png")
             self.driver.close()
             self.logger.error("**************** home page title test is failed *****************")
             assert False
@@ -56,7 +57,7 @@ class Test_001_Login:
             self.driver.close()
             self.logger.info("**************** login test is passed *****************")
         else:
-            self.driver.save_screenshot("F:\\software testing material\\videos on software testing\\Python code with harry\\nopcommerce\\screenshots\\test_login.png")
+            self.driver.save_screenshot("F:\\software testing material\\videos on software testing\\Python code with harry\\project\\nopcommerce\\screenshots\\test_login.png")
             self.driver.close()
             self.logger.error("**************** login test is failed *****************")
             assert False

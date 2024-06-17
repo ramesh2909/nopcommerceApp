@@ -30,11 +30,15 @@ class Test_003_AddCustomer:
         self.lp.clickLogin()
         self.logger.info("**************** login successful *****************")
         self.logger.info("**************** starting add customer test *****************")
-
+        time.sleep(3)
         self.addcust = AddCustomer(self.driver)
+        time.sleep(3)
         self.addcust.clickOnCustomerMenu()
+        time.sleep(3)
         self.addcust.clickOnCustomerMenuItem()
+        time.sleep(3)
         self.addcust.clickOnAddNew()
+        time.sleep(3)
 
         self.logger.info("**************** providing customer info *****************")
 
@@ -65,7 +69,7 @@ class Test_003_AddCustomer:
             self.logger.info("**************** add customer test passed ****************")
 
         else:
-            self.driver.save_screenshot("F:\\software testing material\\videos on software testing\\Python code with harry\\nopcommerce\\screenshots\\test_addcustomer_scr.png")
+            self.driver.save_screenshot("F:\\software testing material\\videos on software testing\\Python code with harry\\project\\nopcommerce\\screenshots\\test_addcustomer_scr.png")
             self.logger.error("**************** add customer test Failed ****************")
             assert True == False
 

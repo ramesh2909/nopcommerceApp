@@ -1869,3 +1869,211 @@
 2024-04-27 18:25:29,439 :INFO : utilities.customLogger :**************** home page title test is passed *****************
 2024-04-27 18:25:38,683 :INFO : utilities.customLogger :**************** verifying login test *****************
 2024-04-27 18:26:00,048 :INFO : utilities.customLogger :**************** login test is passed *****************
+2024-04-28 20:33:19,916 :INFO : utilities.customLogger :**************** test_001_login *****************
+2024-04-28 20:33:19,946 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-04-28 20:33:39,989 :INFO : utilities.customLogger :**************** home page title test is passed *****************
+2024-04-28 20:33:44,580 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-04-28 20:34:09,077 :INFO : utilities.customLogger :**************** login test is passed *****************
+2024-04-29 16:21:53,612 :INFO : utilities.customLogger :**************** test_001_login *****************
+2024-04-29 16:21:54,111 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-04-29 16:22:52,501 :INFO : utilities.customLogger :**************** home page title test is passed *****************
+2024-04-29 16:23:07,838 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-04-29 16:24:11,752 :INFO : utilities.customLogger :**************** login test is passed *****************
+2024-04-29 16:42:23,181 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-04-29 16:42:23,747 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-04-29 16:43:05,766 :INFO : utilities.customLogger :**************** login successful *****************
+2024-04-29 16:43:05,767 :INFO : utilities.customLogger :**************** starting add customer test *****************
+2024-04-29 16:57:41,794 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-04-29 16:57:41,794 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-04-29 16:57:41,794 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-04-29 16:57:41,794 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-04-29 16:57:41,794 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-04-29 16:57:41,848 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-04-29 16:57:41,848 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-04-29 16:57:41,848 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-04-29 16:57:41,848 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-04-29 16:57:41,848 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-04-29 16:58:07,194 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-04-29 16:58:07,194 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-04-29 16:58:07,194 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-04-29 16:58:07,194 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-04-29 16:58:07,194 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-04-29 17:01:13,102 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByName *****************
+2024-04-29 17:01:13,102 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByName *****************
+2024-04-29 17:01:13,102 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByName *****************
+2024-04-29 17:01:13,102 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByName *****************
+2024-04-29 17:01:13,102 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByName *****************
+2024-04-29 17:01:13,102 :INFO : utilities.customLogger :**************** Verifying searchCustomerByName *****************
+2024-04-29 17:01:13,102 :INFO : utilities.customLogger :**************** Verifying searchCustomerByName *****************
+2024-04-29 17:01:13,102 :INFO : utilities.customLogger :**************** Verifying searchCustomerByName *****************
+2024-04-29 17:01:13,102 :INFO : utilities.customLogger :**************** Verifying searchCustomerByName *****************
+2024-04-29 17:01:13,102 :INFO : utilities.customLogger :**************** Verifying searchCustomerByName *****************
+2024-04-29 17:47:16,227 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-04-29 17:47:16,227 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-04-29 17:47:16,227 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-04-29 17:47:16,227 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-04-29 17:47:16,227 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-04-29 17:47:16,337 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-04-29 17:47:16,337 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-04-29 17:47:16,337 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-04-29 17:47:16,337 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-04-29 17:47:16,337 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-04-29 17:47:27,931 :INFO : utilities.customLogger :**************** login successful *****************
+2024-04-29 17:47:27,931 :INFO : utilities.customLogger :**************** login successful *****************
+2024-04-29 17:47:27,931 :INFO : utilities.customLogger :**************** login successful *****************
+2024-04-29 17:47:27,931 :INFO : utilities.customLogger :**************** login successful *****************
+2024-04-29 17:47:27,931 :INFO : utilities.customLogger :**************** login successful *****************
+2024-04-29 17:47:27,931 :INFO : utilities.customLogger :**************** starting add customer test *****************
+2024-04-29 17:47:27,931 :INFO : utilities.customLogger :**************** starting add customer test *****************
+2024-04-29 17:47:27,931 :INFO : utilities.customLogger :**************** starting add customer test *****************
+2024-04-29 17:47:27,931 :INFO : utilities.customLogger :**************** starting add customer test *****************
+2024-04-29 17:47:27,931 :INFO : utilities.customLogger :**************** starting add customer test *****************
+2024-04-29 17:47:50,539 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-04-29 17:47:50,539 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-04-29 17:47:50,539 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-04-29 17:47:50,539 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-04-29 17:47:50,539 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-04-29 17:48:12,233 :INFO : utilities.customLogger :**************** login test is passed *****************
+2024-04-29 17:48:12,233 :INFO : utilities.customLogger :**************** login test is passed *****************
+2024-04-29 17:48:12,233 :INFO : utilities.customLogger :**************** login test is passed *****************
+2024-04-29 17:48:12,233 :INFO : utilities.customLogger :**************** login test is passed *****************
+2024-04-29 17:48:12,233 :INFO : utilities.customLogger :**************** login test is passed *****************
+2024-04-29 17:48:22,056 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByName *****************
+2024-04-29 17:48:22,056 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByName *****************
+2024-04-29 17:48:22,056 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByName *****************
+2024-04-29 17:48:22,056 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByName *****************
+2024-04-29 17:48:22,056 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByName *****************
+2024-04-29 17:48:22,057 :INFO : utilities.customLogger :**************** Verifying searchCustomerByName *****************
+2024-04-29 17:48:22,057 :INFO : utilities.customLogger :**************** Verifying searchCustomerByName *****************
+2024-04-29 17:48:22,057 :INFO : utilities.customLogger :**************** Verifying searchCustomerByName *****************
+2024-04-29 17:48:22,057 :INFO : utilities.customLogger :**************** Verifying searchCustomerByName *****************
+2024-04-29 17:48:22,057 :INFO : utilities.customLogger :**************** Verifying searchCustomerByName *****************
+2024-04-29 17:49:35,396 :INFO : utilities.customLogger :**************** login successful *****************
+2024-04-29 17:49:35,396 :INFO : utilities.customLogger :**************** login successful *****************
+2024-04-29 17:49:35,396 :INFO : utilities.customLogger :**************** login successful *****************
+2024-04-29 17:49:35,396 :INFO : utilities.customLogger :**************** login successful *****************
+2024-04-29 17:49:35,396 :INFO : utilities.customLogger :**************** login successful *****************
+2024-04-29 17:49:35,396 :INFO : utilities.customLogger :**************** starting searchCustomerByName test *****************
+2024-04-29 17:49:35,396 :INFO : utilities.customLogger :**************** starting searchCustomerByName test *****************
+2024-04-29 17:49:35,396 :INFO : utilities.customLogger :**************** starting searchCustomerByName test *****************
+2024-04-29 17:49:35,396 :INFO : utilities.customLogger :**************** starting searchCustomerByName test *****************
+2024-04-29 17:49:35,396 :INFO : utilities.customLogger :**************** starting searchCustomerByName test *****************
+2024-04-29 18:00:50,922 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-04-29 18:00:50,922 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-04-29 18:01:27,720 :INFO : utilities.customLogger :**************** login successful *****************
+2024-04-29 18:01:27,721 :INFO : utilities.customLogger :**************** starting add customer test *****************
+2024-04-29 18:01:39,979 :INFO : utilities.customLogger :**************** providing customer info *****************
+2024-04-29 18:02:35,863 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-04-29 18:02:35,864 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-04-29 18:02:58,370 :INFO : utilities.customLogger :**************** login successful *****************
+2024-04-29 18:02:58,370 :INFO : utilities.customLogger :**************** starting add customer test *****************
+2024-04-29 18:04:30,064 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByEmail *****************
+2024-04-29 18:04:30,065 :INFO : utilities.customLogger :**************** Verifying searchCustomerByEmail *****************
+2024-04-29 18:04:54,763 :INFO : utilities.customLogger :**************** login successful *****************
+2024-04-29 18:04:54,763 :INFO : utilities.customLogger :**************** starting searchCustomerByEmail test *****************
+2024-05-20 12:54:12,032 :INFO : utilities.customLogger :**************** test_001_login *****************
+2024-05-20 12:54:12,276 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-05-20 12:55:05,993 :INFO : utilities.customLogger :**************** home page title test is passed *****************
+2024-05-20 12:55:27,510 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-05-20 12:57:06,937 :INFO : utilities.customLogger :**************** login test is passed *****************
+2024-05-20 13:04:57,354 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-05-20 13:04:57,354 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-05-20 13:04:57,354 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-05-20 13:04:57,354 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-05-20 13:04:57,354 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-05-20 13:04:57,730 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-05-20 13:04:57,730 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-05-20 13:04:57,730 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-05-20 13:04:57,730 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-05-20 13:04:57,730 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-05-20 13:06:16,456 :INFO : utilities.customLogger :**************** login successful *****************
+2024-05-20 13:06:16,456 :INFO : utilities.customLogger :**************** login successful *****************
+2024-05-20 13:06:16,456 :INFO : utilities.customLogger :**************** login successful *****************
+2024-05-20 13:06:16,456 :INFO : utilities.customLogger :**************** login successful *****************
+2024-05-20 13:06:16,456 :INFO : utilities.customLogger :**************** login successful *****************
+2024-05-20 13:06:16,456 :INFO : utilities.customLogger :**************** starting add customer test *****************
+2024-05-20 13:06:16,456 :INFO : utilities.customLogger :**************** starting add customer test *****************
+2024-05-20 13:06:16,456 :INFO : utilities.customLogger :**************** starting add customer test *****************
+2024-05-20 13:06:16,456 :INFO : utilities.customLogger :**************** starting add customer test *****************
+2024-05-20 13:06:16,456 :INFO : utilities.customLogger :**************** starting add customer test *****************
+2024-05-20 13:06:24,031 :INFO : utilities.customLogger :**************** providing customer info *****************
+2024-05-20 13:06:24,031 :INFO : utilities.customLogger :**************** providing customer info *****************
+2024-05-20 13:06:24,031 :INFO : utilities.customLogger :**************** providing customer info *****************
+2024-05-20 13:06:24,031 :INFO : utilities.customLogger :**************** providing customer info *****************
+2024-05-20 13:06:24,031 :INFO : utilities.customLogger :**************** providing customer info *****************
+2024-05-20 13:06:41,106 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-05-20 13:06:41,106 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-05-20 13:06:41,106 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-05-20 13:06:41,106 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-05-20 13:06:41,106 :INFO : utilities.customLogger :**************** verifying login test *****************
+2024-05-20 13:07:17,419 :INFO : utilities.customLogger :**************** login test is passed *****************
+2024-05-20 13:07:17,419 :INFO : utilities.customLogger :**************** login test is passed *****************
+2024-05-20 13:07:17,419 :INFO : utilities.customLogger :**************** login test is passed *****************
+2024-05-20 13:07:17,419 :INFO : utilities.customLogger :**************** login test is passed *****************
+2024-05-20 13:07:17,419 :INFO : utilities.customLogger :**************** login test is passed *****************
+2024-05-20 13:07:39,232 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByName *****************
+2024-05-20 13:07:39,232 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByName *****************
+2024-05-20 13:07:39,232 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByName *****************
+2024-05-20 13:07:39,232 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByName *****************
+2024-05-20 13:07:39,232 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByName *****************
+2024-05-20 13:07:39,232 :INFO : utilities.customLogger :**************** Verifying searchCustomerByName *****************
+2024-05-20 13:07:39,232 :INFO : utilities.customLogger :**************** Verifying searchCustomerByName *****************
+2024-05-20 13:07:39,232 :INFO : utilities.customLogger :**************** Verifying searchCustomerByName *****************
+2024-05-20 13:07:39,232 :INFO : utilities.customLogger :**************** Verifying searchCustomerByName *****************
+2024-05-20 13:07:39,232 :INFO : utilities.customLogger :**************** Verifying searchCustomerByName *****************
+2024-05-20 13:08:29,247 :INFO : utilities.customLogger :**************** login successful *****************
+2024-05-20 13:08:29,247 :INFO : utilities.customLogger :**************** login successful *****************
+2024-05-20 13:08:29,247 :INFO : utilities.customLogger :**************** login successful *****************
+2024-05-20 13:08:29,247 :INFO : utilities.customLogger :**************** login successful *****************
+2024-05-20 13:08:29,247 :INFO : utilities.customLogger :**************** login successful *****************
+2024-05-20 13:08:29,247 :INFO : utilities.customLogger :**************** starting searchCustomerByName test *****************
+2024-05-20 13:08:29,247 :INFO : utilities.customLogger :**************** starting searchCustomerByName test *****************
+2024-05-20 13:08:29,247 :INFO : utilities.customLogger :**************** starting searchCustomerByName test *****************
+2024-05-20 13:08:29,247 :INFO : utilities.customLogger :**************** starting searchCustomerByName test *****************
+2024-05-20 13:08:29,247 :INFO : utilities.customLogger :**************** starting searchCustomerByName test *****************
+2024-05-20 13:08:32,051 :INFO : utilities.customLogger :**************** searching Customer By Email id *****************
+2024-05-20 13:08:32,051 :INFO : utilities.customLogger :**************** searching Customer By Email id *****************
+2024-05-20 13:08:32,051 :INFO : utilities.customLogger :**************** searching Customer By Email id *****************
+2024-05-20 13:08:32,051 :INFO : utilities.customLogger :**************** searching Customer By Email id *****************
+2024-05-20 13:08:32,051 :INFO : utilities.customLogger :**************** searching Customer By Email id *****************
+2024-05-20 13:08:35,092 :INFO : utilities.customLogger :**************** Tc SearchCustomerByEmail finished *****************
+2024-05-20 13:08:35,092 :INFO : utilities.customLogger :**************** Tc SearchCustomerByEmail finished *****************
+2024-05-20 13:08:35,092 :INFO : utilities.customLogger :**************** Tc SearchCustomerByEmail finished *****************
+2024-05-20 13:08:35,092 :INFO : utilities.customLogger :**************** Tc SearchCustomerByEmail finished *****************
+2024-05-20 13:08:35,092 :INFO : utilities.customLogger :**************** Tc SearchCustomerByEmail finished *****************
+2024-05-20 14:42:22,672 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-05-20 14:42:22,878 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-05-20 14:53:04,569 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-05-20 14:53:04,989 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-05-20 14:53:50,479 :INFO : utilities.customLogger :**************** login successful *****************
+2024-05-20 14:53:50,480 :INFO : utilities.customLogger :**************** starting add customer test *****************
+2024-05-20 15:01:47,452 :INFO : utilities.customLogger :**************** Test_003_AddCustomer *****************
+2024-05-20 15:01:47,452 :INFO : utilities.customLogger :**************** Verifying home page title *****************
+2024-05-20 15:03:19,338 :INFO : utilities.customLogger :**************** login successful *****************
+2024-05-20 15:03:19,436 :INFO : utilities.customLogger :**************** starting add customer test *****************
+2024-05-20 15:04:00,071 :INFO : utilities.customLogger :**************** providing customer info *****************
+2024-05-20 15:04:06,063 :INFO : utilities.customLogger :**************** saving customer info *****************
+2024-05-20 15:04:06,063 :INFO : utilities.customLogger :**************** add customer validation  started *****************
+2024-05-20 15:04:06,698 :INFO : utilities.customLogger :**************** add customer test passed ****************
+2024-05-20 15:04:06,742 :INFO : utilities.customLogger :**************** ending Test_003_AddCustomer  ****************
+2024-05-20 15:11:20,876 :INFO : utilities.customLogger :**************** test_002_login_DDT *****************
+2024-05-20 15:11:20,876 :INFO : utilities.customLogger :**************** Verifying login DDT test *****************
+2024-05-20 15:14:03,427 :INFO : utilities.customLogger :**** Passed ****
+2024-05-20 15:14:12,862 :INFO : utilities.customLogger :**** Passed ****
+2024-05-20 15:14:18,776 :INFO : utilities.customLogger :**** Passed ****
+2024-05-20 15:14:26,044 :INFO : utilities.customLogger :**** Passed ****
+2024-05-20 15:14:26,144 :INFO : utilities.customLogger :**** login DDT test passed ****
+2024-05-20 15:14:26,208 :INFO : utilities.customLogger :**** End of login DDT test  ****
+2024-05-20 15:14:26,208 :INFO : utilities.customLogger :****  Completed tc_login_ddt_002 ****
+2024-05-20 15:15:26,237 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByEmail *****************
+2024-05-20 15:15:26,238 :INFO : utilities.customLogger :**************** Verifying searchCustomerByEmail *****************
+2024-05-20 15:17:12,349 :INFO : utilities.customLogger :**************** login successful *****************
+2024-05-20 15:17:12,350 :INFO : utilities.customLogger :**************** starting searchCustomerByEmail test *****************
+2024-05-20 15:17:48,630 :INFO : utilities.customLogger :**************** searching Customer By Email id *****************
+2024-05-20 15:17:51,691 :INFO : utilities.customLogger :**************** Tc SearchCustomerByEmail finished *****************
+2024-05-20 15:19:07,720 :INFO : utilities.customLogger :**************** Test_004_searchCustomerByName *****************
+2024-05-20 15:19:07,721 :INFO : utilities.customLogger :**************** Verifying searchCustomerByName *****************
+2024-05-20 15:20:47,633 :INFO : utilities.customLogger :**************** login successful *****************
+2024-05-20 15:20:47,634 :INFO : utilities.customLogger :**************** starting searchCustomerByName test *****************
+2024-05-20 15:20:50,763 :INFO : utilities.customLogger :**************** searching Customer By Email id *****************
+2024-05-20 15:20:54,045 :INFO : utilities.customLogger :**************** Tc SearchCustomerByEmail finished *****************

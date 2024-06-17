@@ -1,0 +1,1 @@
+https://backend.katalon.com/download-lastest-version?platform=win_64&type_download=kse&edition=enterprise_9x

@@ -9,7 +9,7 @@ def logDemo():
 
     # FileHandler class to set the location of log file
 
-    fileHandler = logging.FileHandler("F:\\software testing material\\videos on software testing\\Python code with harry\\nopcommerce\\Logs\\automation.log")
+    fileHandler = logging.FileHandler("F:\\software testing material\\videos on software testing\\Python code with harry\\project\\nopcommerce\\Logs\\automation.log")
 
     # Formatter class to set the format of log file
 

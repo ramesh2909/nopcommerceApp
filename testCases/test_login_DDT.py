@@ -10,7 +10,7 @@ from utilities import XLUtils
 class Test_002_DDT_Login:
     baseUrl = ReadConfig.getApplicationURL()
     # path = r".\\testData\Logindata.xlsx"
-    path = r"F:\\software testing material\\videos on software testing\\Python code with harry\\nopcommerce\\testData\\Logindata.xlsx"
+    path = r"F:\\software testing material\\videos on software testing\\Python code with harry\\project\\nopcommerce\\testData\\Logindata.xlsx"
     logger = logDemo()
 
     @pytest.mark.regression
